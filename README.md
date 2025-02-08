@@ -1,6 +1,6 @@
 # Brainwave
 
-Brainwave is a frontend-only web application built using **ReactJS** and **TailwindCSS**. This project showcases a modern and responsive UI without any backend dependencies.
+Brainwave is a frontend-only web application built using **ReactJS** and **TailwindCSS**. This project showcases a modern and responsive UI without any backend dependencies. The implementation is inspired by an approach demonstrated by **JavaScript Mastery**.
 
 ## 🚀 Features
 
